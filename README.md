@@ -18,3 +18,7 @@ A React application that allows users to search for movies, view details, and ex
 - React
 - OMDb API
 - Tailwind CSS (optional)
+
+## Dev Changes  
+- Added a section explaining how to contribute to the project.  
+
